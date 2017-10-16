@@ -1,7 +1,7 @@
 {
   "name": "hungry-bear",
   "version": "1.0.0",
-  "description": "#### _In this game, you need to feed the bear regularly or the bear will try to eat you., 10.15.2017_",
+  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "karma start karma.conf.js"
@@ -33,8 +33,5 @@
     "karma-jquery": "^0.2.2",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.9.0"
-  },
-  "dependencies": {
-    "moment": "^2.19.1"
   }
 }
